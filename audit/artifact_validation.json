@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "checks": [
+    "All 966 plotted wealth and drawdown valuations match numerical source paths",
+    "All 34 ten-year start-window observations retained",
+    "All 1001 static-grid allocations retained",
+    "Five final vector figures are 165 mm wide with at least 8 pt text",
+    "All 26 manuscript citation keys exist",
+    "Core table values agree with stored numerical outputs",
+    "Available compiled PDF contains no unresolved-reference markers"
+  ],
+  "limits": "These deterministic checks do not authenticate market data, grant rights, or constitute peer review."
+}

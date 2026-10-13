@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "paper_pages": 33,
+  "report_pages": 4,
+  "research_tests": 17,
+  "accounting_asof_tests": 18,
+  "total_tests": 35,
+  "qqq_fixed_scenarios": 26,
+  "qqq_strategy_stress_runs": 78,
+  "alternate_source_runs": 6,
+  "execution_scenarios": 32,
+  "followup_solver_failures": 0,
+  "raw_integrity": "Nine prior raw files unchanged",
+  "same_canonical_source": true,
+  "public_demo_and_18_fixtures_executed": true,
+  "source_only_build": "33 pages identical in text and 72 dpi pixels",
+  "publication": "WORKING_PAPER_APPROVED_READY_TO_PUBLISH"
+}

@@ -1,0 +1,21 @@
+{
+ "version":"2.0","date":"2026-10-12","status":"local methods freeze before new output; not external preregistration; historical data already seen",
+ "full_period":"2000-01 to2026-09","development":"2000-2009","validation":"2010-2015","historical_audit":"2016-2025","supplement":"2026-01 to09",
+ "warmup":"nine monthly returns from1999-04 to12; expanding min9 covariance, MA10 uses10 available prices; no invented 1990s Nasdaq ETF history",
+ "assets":["QQQ proxy forQQQM","VTI withVTSMX proxy","BND withVBMFX proxy","GLD withspot proxy","cash proxy forshort bills"],
+ "fixed_base":[0.5,0.2,0.2,0.1,0],
+ "regime":"six binary signals: each QQQ and US aboveMA10; six-month return above cash; MA10 rising over3months. bull score>=5, defense<=1, transition2-4. Monthly confirmation, no hindsight crash labels",
+ "manual_state_templates":{"bull":[0.65,0.20,0.10,0.05,0],"transition":[0.30,0.15,0.20,0.15,0.20],"defense":[0.10,0,0.35,0.25,0.30]},
+ "manual_defense_assets":"negative independent MA10/6month absolute-momentum bond/gold sleeves moved to bills; no redistribution to another falling asset",
+ "covariance":"EWMA36 months half-life6; min9 observations; shrink25% todiagonal; annualize12; no11daily covariance available",
+ "return_estimate":"simple EWMA36 half-life12; ridge forward3month arithmetic equivalent with fully matured labels (s+3<=t), max120 trainingrows min60, intercept and train-onlystandardization, regularization10; shrink50% toward fixed excess premiums6/4.5/1/0.5%annual",
+ "predictive_regime":"separate causal logistic predicts next3month return<=-10%, training min60, featurematrix trainnormalized, L2; evaluate Brier,AUC and base-rate; NOT called proven bear-probability",
+ "optimization":"maximum monthly expected excess return netof L1spread and ellipsoidal mean-uncertainty0.25; longonly sum<=1; quadratic riskconstraint; relative allocation L1radius1 around50/20/20/10; absolute capsQQQ85/US60/BOND60/GOLD35%; monthly5asset cost includingbill switches",
+ "main_risk_budget":"15%annual; regime optimizer uses15bull/12transition/8defense; equitycap95/65/25%",
+ "main_execution":"signal atcompletedmonth applied tonextmonthlyreturn; idealized month-boundary fill; driftcorrected self-financing cost; riskconstraint-check; no hard futureDD guarantee; no-tradeband2ppunless risk/regime constraint violated",
+ "fee_scenarios":"10bpabsolute tradedvalue base;2.5/25bp sensitivities; fixed0.35/1.99USD pertrade scenarios initial100k/1m; currency cost initial/final convertedvalue only, not everyUSDrebalance; final liquidation separate equal forbenchmarks",
+ "ablation":"remove regime cap; remove mean penalty; remove no-trade band; forecasts simplevsridgevsrevisedmacro; risk12/15/18, 1monthdelay,zero cashinterest, earlybond/gold conservative riskfloors",
+ "selection":"evaluate all fixed methods, show Pareto tradeoff; select by2010-2015 mean annual log growth minusone half variance subjectobserved MDD<=30%, annualtwo-wayturnover<=6, water<=48months; thenfreeze name on2016-2025. No guarantee andhistoricalnotgenuinelyunseen. Future-only forwardmonitor nextmonth",
+ "statistics":"paired12monthblockbootstrap2000 resamples; log-growth-difference confidence intervals for6 planned comparisons 2periods Bonferroni; centered-nullbootstrap pvalues; candidate comparisons exploratoryno all-historyalpha claim",
+ "guardrails":"no leverage/shorts; no automatictrades; no freshquote advice fromoldhistory; initialdatachanges audit hashes; fail solver=>cash flagged"
+}

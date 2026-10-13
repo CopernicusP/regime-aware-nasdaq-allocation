@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "scope": "All 33 pages reviewed in contact sheets; first page and new appendix/table pages inspected at larger scale; report four pages reviewed",
+  "figures": "Five inherited plots unchanged; private source data remain validated",
+  "layout_correction": "Float barrier inserted so declarations do not begin before pending execution tables",
+  "no_clipping": true,
+  "not_external_peer_review": true,
+  "final_declarations_revision": "Author-approved revision: first 32 pages identical in text and pixels; final declarations page rendered and visually inspected, no clipping."
+}

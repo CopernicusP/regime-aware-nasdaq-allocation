@@ -1,0 +1,2 @@
+# Optional assessment-PDF generation; numerical dependencies are in requirements-lock.txt.
+reportlab==4.4.9

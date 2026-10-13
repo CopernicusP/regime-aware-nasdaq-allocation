@@ -1,0 +1,42 @@
+{
+  "compared_to": "Prior private archive manifest",
+  "files": [
+    {
+      "path": "raw/data_notes.json",
+      "unchanged": true
+    },
+    {
+      "path": "raw/macro_current_vintage.csv",
+      "unchanged": true
+    },
+    {
+      "path": "raw/monthly_returns.csv",
+      "unchanged": true
+    },
+    {
+      "path": "raw/prior_price_source_manifest.csv",
+      "unchanged": true
+    },
+    {
+      "path": "raw/prior_returns.csv",
+      "unchanged": true
+    },
+    {
+      "path": "raw/qqq_warmup_and_bill_rates.csv",
+      "unchanged": true
+    },
+    {
+      "path": "raw/raw_adjusted_prices.csv",
+      "unchanged": true
+    },
+    {
+      "path": "raw/warmup_1999.csv",
+      "unchanged": true
+    },
+    {
+      "path": "raw/warmup_sources.csv",
+      "unchanged": true
+    }
+  ],
+  "status": "PASS"
+}

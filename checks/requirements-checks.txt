@@ -1,0 +1,3 @@
+numpy
+pandas
+exchange_calendars==4.13.1

@@ -1,0 +1,24 @@
+{
+  "rows": 66,
+  "max_absolute_numeric_errors": {
+    "months": 0,
+    "cagr": 1.6349144260630055e-12,
+    "vol": 2.082306549411328e-12,
+    "sharpe_arithmetic_excess": 1.971445229287383e-11,
+    "max_dd": 2.0687784818562704e-11,
+    "longest_water_months": 0,
+    "ulcer": 1.3036377533026666e-12,
+    "cvar95_month": 2.538122489958994e-12,
+    "calmar": 3.211358956534127e-11,
+    "turnover_two_way_annual": 1.2839584950796734e-10,
+    "orders_per_year": 0,
+    "terminal_100k": 5.619716830551624e-05,
+    "extra_loss_qqq_pp": 6.82660505901822e-09,
+    "total_explicit_fees": 2.043885615421459e-06,
+    "terminal_after_liquidation_fx": 5.614105612039566e-05,
+    "solver_failures": 0
+  },
+  "text_discrepancies": [],
+  "status": "PASS",
+  "scope": "New isolated venv, same frozen data; independent computation is not independent data authentication"
+}

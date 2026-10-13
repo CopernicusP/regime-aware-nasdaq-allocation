@@ -1,0 +1,25 @@
+{
+  "files": [
+    {
+      "file": "JAM_Anonymous_Manuscript.pdf",
+      "pages": 26,
+      "source_page_range": [
+        1,
+        26
+      ],
+      "sha256": "5e9e7647391309358e17f2f87dd434f4bd19c6ebbd09fb039ec54601ab6113c9"
+    },
+    {
+      "file": "JAM_Anonymous_Supplement.pdf",
+      "pages": 17,
+      "source_page_range": [
+        27,
+        43
+      ],
+      "sha256": "e4fe7282cc3d333d7749c8a45638f3987d6a9192252622c617b50312a41d351d"
+    }
+  ],
+  "biography_words": 99,
+  "no_submission": true,
+  "anonymous_text_checked": true
+}

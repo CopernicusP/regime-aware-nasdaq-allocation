@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "numerical_lock": "requirements-lock.txt",
+  "optional_document_packages": {
+    "reportlab": "4.4.9"
+  },
+  "latex": "XeTeX 3.141592653-2.6-0.999995 (TeX Live 2023/Debian)",
+  "blas_threads": 1,
+  "single_agent": true
+}

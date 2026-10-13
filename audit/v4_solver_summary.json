@@ -1,0 +1,11 @@
+{
+  "method": "M / BoydSimple",
+  "problems": 321,
+  "bounded": 321,
+  "objective_tolerance": 2e-08,
+  "max_gap_basis_points": 6.068448035745355e-06,
+  "max_primal_constraint_violation": 7.216449660063518e-15,
+  "max_lp_iterations": 1,
+  "independent_algorithm": "SciPy HiGHS LP outer approximation vs SLSQP primal",
+  "interpretation": "Numerical bounds on fitted one-period problems only. No exact arithmetic, economic forecast or out-of-sample certification."
+}

@@ -1,0 +1,12 @@
+{
+  "recorded_date": "2026-10-13",
+  "status": "Recorded before new experiments in this run; historical data already seen; not preregistration",
+  "strategy_changes": "None to inherited headline R and M",
+  "attribution": "Freeze full-vector arithmetic average monthly post-trade weights from 2010-2015 for each R/M; rebalance constant comparator monthly in 2016-2025. Also freeze QQQ/cash weight matching validation realized volatility. A same-sample full-history match is an explicitly hindsight descriptive diagnostic.",
+  "simple_control": "QQQ when its observed total-return index exceeds trailing MA10, reserve otherwise; monthly, no leverage, same 10bp cost on traded sleeves.",
+  "rolling": "All January starts with completed 5- and 10-year windows ending by December 2025; fresh positions, historical estimator warmup; no selection among windows.",
+  "conditional_inference": "Increase inherited 12-comparison circular-block bootstrap to 20000 draws. Add block-length sensitivity 6/12/24 for R/M and six 2016-2025 comparator tests at 9999 draws; Bonferroni across six comparator contrasts; retrospective exploratory.",
+  "macro": "Use official Philadelphia Fed monthly vintage matrices. Conservative cutoff: vintage month strictly earlier than signal month; existing observation reference signal minus 2 months and exact 6/12/18 month lags within same vintage. Compare vintage-correct versus latest-vintage features under unchanged inherited ridge rules. Preserve original revised series as legacy only.",
+  "execution": "Do not invent daily returns from monthly data. Execute empirical next-open only if a complete independently documented daily/corporate-action panel is obtained; otherwise retain tested adapter and explicit blocked status.",
+  "selection": "No new winner replaces R or M. Report unfavorable comparator, forecasting and macro evidence."
+}

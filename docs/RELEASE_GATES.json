@@ -1,0 +1,56 @@
+{
+  "as_of": "2026-10-13",
+  "status": "WORKING_PAPER_APPROVED_REPOSITORY_CREATED",
+  "public_published": false,
+  "repository_url": "https://github.com/CopernicusP/regime-aware-nasdaq-allocation",
+  "release_url": null,
+  "doi": null,
+  "journal_submitted": false,
+  "conditional_github_authorization": "Explicit final author approval and GitHub Working Paper release authorization received on 13 October 2026. No additional manuscript or technical-choice approval required.",
+  "levels": {
+    "public_working_paper": {
+      "research": "PASS_WITH_EXPLICIT_LIMITS",
+      "qqq": "Closed by corroborated endpoint analysis, complete QQQ alternate-source run and fixed 26-scenario sensitivity; exact issuer input discrepancy remains disclosed",
+      "execution": "Observed live-ETF-era sensitivity completed; broker-grade execution is not required at this level",
+      "reproduction": "Owned code, fictional core demo, input schemas, source identifiers and acquisition roadmap; restricted market histories need not be open",
+      "rights": "No blanket raw or derivative grant asserted; exclude raw/normalized vendor series, figure source-data CSVs, empirical monthly paths, commercial fulltexts and correspondence. Candidate is original scholarly paper/code plus bounded summaries; further data redistribution requires source-specific rights.",
+      "remaining_required": [],
+      "not_required": [
+        "WRDS subscription or broker connection",
+        "Full opening-auction/settlement certification",
+        "All raw data publicly downloadable",
+        "MIT or Creative Commons license",
+        "Institutional affiliation for name-only GitHub working paper",
+        "Positive forecasting alpha or perfect reconciliation of every bounded discrepancy"
+      ],
+      "author_declarations": "PASS: funding, possible personal financial interests, sole authorship, substantive AI assistance and author responsibility confirmed"
+    },
+    "journal_submission": {
+      "status": "DEFERRED_BY_AUTHOR_NOT_SUBMITTED",
+      "target": "Journal of Asset Management",
+      "requirements": [
+        "Accurate submission profile, contact details and approximately 100-word author biography",
+        "Double-blind manuscript and separate supplement; venue house-style review",
+        "Editor/referee data-access route consistent with actual data agreements",
+        "Author's actual submission instruction and no simultaneous journal review"
+      ]
+    },
+    "executable_investment_strategy": {
+      "status": "NOT_CERTIFIED",
+      "completed": [
+        "Daily historical OHLC panel checks",
+        "Prior-close frozen decision / next observed open replay",
+        "Stipulated 10/25 bp cost scenarios",
+        "Daily-close drawdown measurement"
+      ],
+      "remaining": [
+        "Authenticated opening venue/auction fills, bid-ask depth and order-size costs",
+        "Payment-date distributions and settlement/cash constraints",
+        "Whole-share, taxes and reserve-liquidity implementation",
+        "Prospective fixed-protocol evaluation"
+      ]
+    }
+  },
+  "review_scope": "Single-agent computational and source review, with explicit human author manuscript approval. No claim of independent peer review, legal certification or journal acceptance.",
+  "repository_created": true
+}

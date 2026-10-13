@@ -1,0 +1,8 @@
+{
+  "qqq_sensitivity_rows": 78,
+  "execution_rows": 32,
+  "original_raw_overwritten": false,
+  "parameter_retuning": false,
+  "provenance": "Yahoo public chart, not CRSP/WRDS or IBKR; daily replacement may share upstream lineage with Digrin",
+  "publication_scope": "aggregate research statistics only; raw bars, paths and figure-level histories private"
+}

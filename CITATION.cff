@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite Yudian Pan and the Working Paper version; this is not a peer-reviewed journal article."
+title: "Regime-Aware Nasdaq Allocation: Growth, Drawdowns, and Recovery"
+authors:
+  - family-names: Pan
+    given-names: Yudian
+preferred-citation:
+  type: unpublished
+  title: "Regime-Aware Nasdaq Allocation: Growth, Drawdowns, and Recovery"
+  authors:
+    - family-names: Pan
+      given-names: Yudian
+  year: 2026
+abstract: "Retrospective monthly research comparing state allocation, cost-aware optimization, Nasdaq buy-and-hold, and simpler exposure controls. Finite price sensitivities and live-ETF-era next-open tests are complete. The human author approved the Working Paper and its disclosed substantive AI assistance."
+repository-code: "https://github.com/CopernicusP/regime-aware-nasdaq-allocation"
+version: "1.0.0"

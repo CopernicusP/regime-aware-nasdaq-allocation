@@ -1,0 +1,5 @@
+﻿strategy,years,windows,growth_wins,drawdown_wins,median_growth_difference,min_growth_difference,max_growth_difference,overlap_warning
+RegimeRule,5,22,7,22,-0.04268920375295193,-0.12834005659461445,0.19097566607190308,"Windows overlap; counts are descriptive, not binomial trials."
+RegimeRule,10,17,3,17,-0.039990226850182164,-0.08483457823949436,0.11028070893300246,"Windows overlap; counts are descriptive, not binomial trials."
+BoydSimple,5,22,8,22,-0.019358571664934154,-0.09126463789966,0.17984366823376985,"Windows overlap; counts are descriptive, not binomial trials."
+BoydSimple,10,17,8,17,-0.016265624501412113,-0.051453901791844725,0.1076896550944828,"Windows overlap; counts are descriptive, not binomial trials."

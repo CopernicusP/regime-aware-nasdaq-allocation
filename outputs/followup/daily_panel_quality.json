@@ -1,0 +1,89 @@
+[
+  {
+    "ticker": "QQQ",
+    "rows": 6933,
+    "first": "1999-03-10",
+    "last": "2026-09-30",
+    "live_rows": 3708,
+    "missing_sessions": [],
+    "extra_sessions": [],
+    "split_events": {
+      "953562600": {
+        "date": 953562600,
+        "numerator": 2.0,
+        "denominator": 1.0,
+        "splitRatio": "2:1"
+      }
+    },
+    "sha256": "d7e7debf35d37f5b8f1736ebde98770974373c0cef6f283578f0a032596d3909"
+  },
+  {
+    "ticker": "VTI",
+    "rows": 6360,
+    "first": "2001-06-15",
+    "last": "2026-09-30",
+    "live_rows": 3708,
+    "missing_sessions": [],
+    "extra_sessions": [],
+    "split_events": {
+      "1213795800": {
+        "date": 1213795800,
+        "numerator": 2.0,
+        "denominator": 1.0,
+        "splitRatio": "2:1"
+      }
+    },
+    "sha256": "6e0825436d2cced00b45dc38b6e30ff9e54394742e3203baa6676149ebf157ff"
+  },
+  {
+    "ticker": "BND",
+    "rows": 4901,
+    "first": "2007-04-10",
+    "last": "2026-09-30",
+    "live_rows": 3708,
+    "missing_sessions": [],
+    "extra_sessions": [],
+    "split_events": {},
+    "sha256": "42bd40e0bd04f5a35b2e9ecd0d998eed7814bbbf7068b4d0f8c6346a883225f2"
+  },
+  {
+    "ticker": "GLD",
+    "rows": 5500,
+    "first": "2004-11-18",
+    "last": "2026-09-30",
+    "live_rows": 3708,
+    "missing_sessions": [],
+    "extra_sessions": [],
+    "split_events": {},
+    "sha256": "f380a1dc4b016ffd10672df20b1b3d5563622761a5acfa13f68614cc7a010acc"
+  },
+  {
+    "ticker": "BIL",
+    "rows": 4866,
+    "first": "2007-05-30",
+    "last": "2026-09-30",
+    "live_rows": 3708,
+    "missing_sessions": [],
+    "extra_sessions": [],
+    "split_events": {
+      "1512052200": {
+        "date": 1512052200,
+        "numerator": 1.0,
+        "denominator": 2.0,
+        "splitRatio": "1:2"
+      }
+    },
+    "sha256": "0e4d71833428fae0ffe63f0c249d51d823ebbb9102c13401da5200acc83ceb2d"
+  },
+  {
+    "ticker": "SPY",
+    "rows": 6940,
+    "first": "1999-03-01",
+    "last": "2026-09-30",
+    "live_rows": 3708,
+    "missing_sessions": [],
+    "extra_sessions": [],
+    "split_events": {},
+    "sha256": "baa2f735e5044b7b46a731345fd115cc88eb97bb3b6d4057fc002c278c9397c7"
+  }
+]
