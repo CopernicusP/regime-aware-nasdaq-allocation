@@ -14,3 +14,5 @@ preferred-citation:
 abstract: "Retrospective monthly research comparing state allocation, cost-aware optimization, Nasdaq buy-and-hold, and simpler exposure controls. Finite price sensitivities and live-ETF-era next-open tests are complete. The human author approved the Working Paper and its disclosed substantive AI assistance."
 repository-code: "https://github.com/CopernicusP/regime-aware-nasdaq-allocation"
 version: "1.0.0"
+url: "https://github.com/CopernicusP/regime-aware-nasdaq-allocation"
+date-released: "2026-10-13"

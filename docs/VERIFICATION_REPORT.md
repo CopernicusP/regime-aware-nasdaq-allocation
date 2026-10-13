@@ -2,7 +2,7 @@
 
 **Yudian Pan — Regime-Aware Nasdaq Allocation — 13 October 2026**
 
-**Decision:** The scientific working-paper issues have been handled to a reasonable, bounded standard. The project now has a concrete 33-page revised manuscript, finite QQQ sensitivity analysis, observed daily execution-clock tests, a restricted-data reproduction route, and formal submission preparation. The author has now supplied truthful funding and possible personal-interest disclosures, accepted responsibility and explicitly approved public GitHub Working Paper release. The remaining operation is publication using the authenticated account; no further research or author approval is required. Broker-grade implementation and open redistribution of all data are not preconditions for the working paper.
+**Decision:** The scientific working-paper issues have been handled to a reasonable, bounded standard. The project now has a concrete 33-page revised manuscript, finite QQQ sensitivity analysis, observed daily execution-clock tests, a restricted-data reproduction route, and formal submission preparation. The author has now supplied truthful funding and possible personal-interest disclosures, accepted responsibility and explicitly approved public GitHub Working Paper release. The Working Paper and scoped research materials are now published in the public CopernicusP/regime-aware-nasdaq-allocation repository; no further research or author approval is required. Broker-grade implementation and open redistribution of all data are not preconditions for the working paper.
 
 ## QQQ discrepancy: contained, not falsely explained
 
@@ -53,3 +53,10 @@ All named deliverables use Yudian Pan. The author explicitly confirms review of 
 The original nine raw input files match the preceding private-archive manifest byte for byte. The prior 31 checks plus four focused execution checks pass: independent same-panel close accounting, observed-opening buy-and-hold identity, no use of future open in target formation and self-financing costs. The fictional demo runs without vendor input. Numerical table generation reads executed follow-up outputs directly. The final audit records PDF/source consistency, anonymous-file checks, package exclusions, checksums and source-only compilation.
 
 The inherited full computation and resampling findings remain intact: no established positive growth outperformance after the stated adjustments, weak loss classification, small macro forecast gains, and substantial dependence on start date and exposure. No model retuning or new winning policy was introduced. This is single-agent computational and source review, not independent human peer review, legal certification or journal approval. The research queue is closed at the documented scope; new primary evidence can be incorporated later without reopening the approved Working Paper release.
+
+
+## Final publication verification
+
+The final named PDF remains 33 pages. Its first 32 pages match the approved checkpoint in both extracted text and rendered pixels; page 33 updates availability and the confirmed declarations. Sixty-three numerical/source assets, including the frozen protocols, principal research code, aggregate results, bibliography, numerical macros, tables and figures, are byte-identical to the approved public candidate. The source-only Overleaf build reproduces all 33 pages; the fictional demonstration and 18 accounting fixtures pass. The clean public package contains no restricted input histories, complete empirical paths, third-party full texts, private author records or correspondence. The private full archive is a separate deliverable and is not a GitHub asset.
+
+Public repository: https://github.com/CopernicusP/regime-aware-nasdaq-allocation . GitHub release records provide the asset list and immutable tag. No SSRN, arXiv or journal submission was made.

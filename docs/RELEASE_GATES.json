@@ -1,9 +1,8 @@
 {
   "as_of": "2026-10-13",
-  "status": "WORKING_PAPER_APPROVED_REPOSITORY_CREATED",
-  "public_published": false,
+  "status": "PUBLIC_WORKING_PAPER_RELEASE",
+  "public_published": true,
   "repository_url": "https://github.com/CopernicusP/regime-aware-nasdaq-allocation",
-  "release_url": null,
   "doi": null,
   "journal_submitted": false,
   "conditional_github_authorization": "Explicit final author approval and GitHub Working Paper release authorization received on 13 October 2026. No additional manuscript or technical-choice approval required.",
@@ -52,5 +51,6 @@
     }
   },
   "review_scope": "Single-agent computational and source review, with explicit human author manuscript approval. No claim of independent peer review, legal certification or journal acceptance.",
-  "repository_created": true
+  "repository_created": true,
+  "release_location": "GitHub Releases, linked from the public repository. Publication transaction receipts and asset hashes are retained separately in the private audit."
 }

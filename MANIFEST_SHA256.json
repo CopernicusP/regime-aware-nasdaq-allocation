@@ -8,8 +8,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 855,
-      "sha256": "fd130ed12d2c5a5afeb0ba2defcb98203c5deb8fcf7a682ab0496de72bf9bac6"
+      "bytes": 952,
+      "sha256": "a0d8d411ef64da283cef49e57af6b8e69f44a8bb6136a53f5f6e8a4180ba8120"
     },
     {
       "path": "LICENSES.md",
@@ -38,8 +38,8 @@
     },
     {
       "path": "audit/followup/final_checks.json",
-      "bytes": 560,
-      "sha256": "41d01e77e386b47058dd4b5d3f11105a50d401bc7560fdcca6cf8af5aca6deff"
+      "bytes": 550,
+      "sha256": "67ee33777fb80942ef39ca05d92ae2074e11f3e77a44327780fa41c8b617efa4"
     },
     {
       "path": "audit/followup/frozen_raw_integrity.json",
@@ -248,8 +248,8 @@
     },
     {
       "path": "docs/RELEASE_GATES.json",
-      "bytes": 3307,
-      "sha256": "606e5f4e0183966d430da0d5cfbbc2b93995e618496f08d8734ccfd29f81f561"
+      "bytes": 3443,
+      "sha256": "56dce086de2077be8fc41c410ba82912e6a12bceefff2c1397af0e05874e358b"
     },
     {
       "path": "docs/RELEASE_NOTES.md",
@@ -278,13 +278,13 @@
     },
     {
       "path": "docs/VERIFICATION_REPORT.md",
-      "bytes": 10878,
-      "sha256": "e6a323fd4f04215ef91ed98bcd99f55bd3fd7f979afd277b2854e9ba15bbb9e4"
+      "bytes": 11936,
+      "sha256": "d46dc74d7ae318a5260086afad99690963da56dc30590a8a34050ab1b7c51cbc"
     },
     {
       "path": "docs/Verification_Report.pdf",
-      "bytes": 53560,
-      "sha256": "431ead2d7891cecefbcea9a54cf9689c40348505a5943b0d88ba3b9ee84e218e"
+      "bytes": 54291,
+      "sha256": "992b19d7c796fe25b55298dd84c575dac84089aec00a08bca113352cfbf9fbd9"
     },
     {
       "path": "manuscript/BUILD_README.md",
